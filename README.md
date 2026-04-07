@@ -37,10 +37,6 @@ I am a final-year CSE student and aspiring Full-Stack Developer with a strong fo
 
 ---
 
----
-
-### GitHub Stats 
-![Abishake's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abishake007&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abishake007&layout=compact&theme=radical&hide_border=true)
 
