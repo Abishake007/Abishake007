@@ -37,10 +37,5 @@ I am a final-year CSE student and aspiring Full-Stack Developer with a strong fo
 
 ---
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abishake007&layout=compact&theme=radical&hide_border=true)
-
----
-
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abishake-a/)  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abishakearunagirinathan16@gmail.com)
