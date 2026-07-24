@@ -1,9 +1,10 @@
 # Abishake A
 
 **Full-Stack Developer focused on building scalable web applications and secure backend systems.** 
-Currently pursuing **B.E. in Computer Science and Engineering** at Paavai College of Engineering. 
-
-I am a final-year CSE student and aspiring Full-Stack Developer with a strong foundation in Java, Spring Boot, and the MERN stack. I am passionate about writing clean, secure code and solving real-world technical challenges, such as building digital banking and e-commerce platforms. 
+CSE Graduate and Full-Stack Developer with a robust technical foundation in Java, Spring
+Boot, and the MERN stack. Experienced in architecting end-to-end web applications,
+implementing secure REST APIs, and designing interactive user interfaces. Ready to write
+clean, maintainable code and deliver high-performance software solutions. 
 ---
 ### What I work on
 * **Backend Development** with Java and Spring Boot. 
@@ -13,7 +14,7 @@ I am a final-year CSE student and aspiring Full-Stack Developer with a strong fo
 * **Cloud Integration** and exploring AWS services.
 ---
 ### Highlights
-* **7.6/10 CGPA** in my B.E. CSE program. 
+* **8.06/10 CGPA** in my B.E. CSE program. 
 * **AWS Certified Cloud Practitioner Essentials** — AWS Skill Builder.
 * **Java Full Stack Developer Certified** — Coursera. 
 * **Web Developer Bootcamp 2026** — Udemy. 
