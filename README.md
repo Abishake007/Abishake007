@@ -1,17 +1,17 @@
 # Abishake A
 
-**Full-Stack Developer focused on building scalable web applications and secure backend systems.** 
-CSE Graduate and Full-Stack Developer with a robust technical foundation in Java, Spring
-Boot, and the MERN stack. Experienced in architecting end-to-end web applications,
-implementing secure REST APIs, and designing interactive user interfaces. Ready to write
-clean, maintainable code and deliver high-performance software solutions. 
+Full-Stack Developer focused on building scalable web applications and secure backend systems.
+
+CSE Graduate and Full-Stack Developer with a robust technical foundation in Java, Spring Boot, and the MERN stack. Experienced in architecting end-to-end web      applications, implementing secure REST APIs, and designing interactive user interfaces. Ready to write clean, maintainable code and deliver high-performance       software solutions.
+
 ---
 ### What I work on
-* **Backend Development** with Java and Spring Boot. 
-* **Full-Stack Applications** using Angular, React, and Node.js. 
-* **Database Management** with MySQL and MongoDB. 
-* **REST API Design** for seamless frontend-backend communication. 
-* **Cloud Integration** and exploring AWS services.
+* Backend development with Java and Spring Boot
+* Authentication and authorization (JWT, role-based access)
+* REST API design
+* Full-stack projects with Angular and MERN
+* Learning secure development practices
+* Data structures and algorithms for problem solving
 ---
 ### Highlights
 * **8.06/10 CGPA** in my B.E. CSE program. 
