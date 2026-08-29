@@ -14,7 +14,7 @@ CSE Graduate and Full-Stack Developer with a robust technical foundation in Java
 * Data structures and algorithms for problem solving
 ---
 ### Highlights
-* **8.06/10 CGPA** in my B.E. CSE program. 
+* **7.92/10 CGPA** in my B.E. CSE program. 
 * **AWS Certified Cloud Practitioner Essentials** — AWS Skill Builder.
 * **Java Full Stack Developer Certified** — Coursera. 
 * **Web Developer Bootcamp 2026** — Udemy. 
